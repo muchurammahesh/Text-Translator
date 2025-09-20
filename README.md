@@ -4,6 +4,10 @@ A **React-based web application** that allows users to translate text from one l
 Supports multiple languages, clean UI, and responsive design for seamless usage.
 
 ---
+## 🔗 Live Demo
+
+🚀 Check out the deployed application here:  
+👉 [Live Demo] https://text-translator-by-mahi.netlify.app/
 
 ## 🚀 Features
 
