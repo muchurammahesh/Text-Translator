@@ -4,6 +4,8 @@ A **React-based web application** that allows users to translate text from one l
 Supports multiple languages, clean UI, and responsive design for seamless usage.
 
 ---
+<img width="1898" height="920" alt="TextTranslator" src="https://github.com/user-attachments/assets/e4b80113-edf7-4619-9658-04697c7deddb" />
+
 ## 🔗 Live Demo
 
 🚀 Check out the deployed application here:  
